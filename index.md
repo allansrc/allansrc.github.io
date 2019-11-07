@@ -1,7 +1,7 @@
-# Allan Ramos
 <div style="width: 100%; height: 180px">
     <img src="https://avatars0.githubusercontent.com/u/35867294?s=460&v=4" alt="Avatar" style="align: center;height: 90%;border-radius: 50%">
     <h2>Allan Ramos</h2>
+    <br />
 </div>
 
  A Speaker, Software Developer and community collaborator in Brazil. He is graduated in Systems Analysis, IA graduate.
