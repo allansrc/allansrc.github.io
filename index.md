@@ -1,9 +1,9 @@
 
-# <img src="https://avatars0.githubusercontent.com/u/35867294?s=460&v=4" alt="Avatar" style="vertical-align: middle;width: 50px;height: 50px;border-radius: 50%"> Allan Ramos 
+# Allan Ramos 
+<img src="https://avatars0.githubusercontent.com/u/35867294?s=460&v=4" alt="Avatar" style="vertical-align: middle;width: 80px;height: 80px;border-radius: 50%"></br>
+
 Programador.
 
- 
-Esse conteudo será publicado no canal do autor [Aqui](https://www.youtube.com/DiegoTelles) 
 
 ### Nosso desafio:
  1. Faremos integrações via API's para realizarmos nosso CRUD (**C**reate, **R**ead, **U**pdate e **D**elete);<br />
