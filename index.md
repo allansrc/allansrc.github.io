@@ -1,6 +1,6 @@
 <div style="width: 100%; height: 180px">
 
-# <img src="https://avatars0.githubusercontent.com/u/35867294?s=460&v=4" alt="Avatar" style="align: center;width: 180px;height: 180px;border-radius: 50%"> Allan Ramos
+# <img src="https://avatars0.githubusercontent.com/u/35867294?s=460&v=4" alt="Avatar" style="align: center;height: 90%;border-radius: 50%"> Allan Ramos
 
 </div>
 
