@@ -1,6 +1,7 @@
 
-# Allan Ramos | Developer
-Esse conteudo está sendo desenvolvido de forma gratuita para a comunidade dev como incentivo à estudos e desenvolvimentos de skills com Front-end.
+# Allan Ramos
+Programador.
+<img src="https://avatars0.githubusercontent.com/u/35867294?s=460&v=4" alt="Avatar" style="vertical-align: middle;width: 50px;height: 50px;border-radius: 50%">
  <p align="center">
   <img src="https://avatars0.githubusercontent.com/u/35867294?s=460&v=4" width="350" title="hover text">
 </p>
