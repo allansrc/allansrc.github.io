@@ -1,10 +1,7 @@
 
-# Welcome to the React Basic Level Marathon
-
+# Allan Ramos | Developer
 Esse conteudo está sendo desenvolvido de forma gratuita para a comunidade dev como incentivo à estudos e desenvolvimentos de skills com Front-end.
 
- **Instrutor:** *[Diego Telles](https://twitter.com/_DiegoTeles)*
- ![Image description](https://avatars0.githubusercontent.com/u/35867294?s=460&v=4)
  <p align="center">
   <img src="https://avatars0.githubusercontent.com/u/35867294?s=460&v=4" width="350" title="hover text">
 </p>
