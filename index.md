@@ -1,6 +1,10 @@
 # <img src="https://avatars0.githubusercontent.com/u/35867294?s=460&v=4" alt="Avatar" style="vertical-align: middle;width: 180px;height: 180px;border-radius: 50%"> Allan Ramos
 
 
+ A Speaker, Software Developer and community collaborator in Brazil. He is graduated in Systems Analysis, IA graduate.
+  
+
+
 ### Nosso desafio:
  1. Faremos integrações via API's para realizarmos nosso CRUD (**C**reate, **R**ead, **U**pdate e **D**elete);<br />
  2. Usaremos componentização para dividir nosso Front e deixar ele mais fluído;<br />
