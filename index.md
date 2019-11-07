@@ -1,7 +1,5 @@
 # <img src="https://avatars0.githubusercontent.com/u/35867294?s=460&v=4" alt="Avatar" style="vertical-align: middle;width: 180px;height: 180px;border-radius: 50%"> Allan Ramos
 
-Programador.
-
 
 ### Nosso desafio:
  1. Faremos integrações via API's para realizarmos nosso CRUD (**C**reate, **R**ead, **U**pdate e **D**elete);<br />
