@@ -1,6 +1,4 @@
-<img src="https://avatars0.githubusercontent.com/u/35867294?s=460&v=4" alt="Avatar" style="vertical-align: middle;width: 180px;height: 180px;border-radius: 50%">
-
-# Allan Ramos
+# <img src="https://avatars0.githubusercontent.com/u/35867294?s=460&v=4" alt="Avatar" style="vertical-align: middle;width: 180px;height: 180px;border-radius: 50%"> Allan Ramos
 
 Programador.
 
