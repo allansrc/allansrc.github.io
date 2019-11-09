@@ -1,108 +1,89 @@
 <div style="width: 100%; height: 180px; margin: 18px;">
     <img src="https://avatars0.githubusercontent.com/u/35867294?s=460&v=4" alt="Avatar" style="display: block;margin-left: auto;margin-right: auto;height: 90%;border-radius: 50%;">
     <!-- <h2>Allan Ramos</h2> -->
-
 </div>
 
 ## Allan Ramos
 <br />
 
- A Speaker, Software Developer and community collaborator in Brazil. He is graduated in Systems Analysis, IA graduate.
+ A Speaker, Software Developer and community collaborator in Brazil. Majoring English (Acoustic Phonetics), graduate in Systems Analysis.
   
 
 
-### Nosso desafio:
- 1. Faremos integrações via API's para realizarmos nosso CRUD (**C**reate, **R**ead, **U**pdate e **D**elete);<br />
- 2. Usaremos componentização para dividir nosso Front e deixar ele mais fluído;<br />
- 3. Vamos aprender o que é um SPA (**S**ingle **P**age **A**pplication) e um MSP (**M**ulti **P**age **A**pplication);<br />
- 4. Entenderemos como e porque existem States/Props e Life Cycles;<br />
- 5. Vamos ver um pouco de Redux e entender como ele se comporta e qual o melhor momento de usar ele;<br />
- 6. Faremos nosso Deploy da applicação no Heroku e Netlify.<br />
+### Activities:
+ 1. **D**, **E**, **V**;<br />
+ 2. ;<br />
+ 3. ;<br />
+ 4. ;<br />
+ 5. ;<br />
+ 6. .<br />
 
 
-## Conteúdo programático
+## Flutter 0101
 
 <details>
-<summary> Modulo I - Lógica de programação (Fundamentos básicos) </summary>
+<summary> Introdução ao Flutter (pt-BR)</summary>
+    * O que é Flutter <br />
+    * Dart <br />
+    * Como Flutter funciona (debaixo dos panos) <br />
+    * Widgets <br />
+    * Diferença entre Híbrido / Multiplataforma,  <br />
+    * "Compilado" <br />
+    * Pós / Contra <br />
+    * Flutter para o Futuro <br />
+    
+</details>
+
+
+<details>
+<summary> Dart - Lógica de Programação (pt-BR)</summary>
     * O que são váriaveis <br />
     * O que são funções(métodos) <br />
     * Condicionais if...else,  <br />
     * Laços de repetição for, while, do...while <br />
     * O que é escopo <br />
-    * Hoisting <br />
     
 </details>
 
 
 -------
 <details>
-<summary> ⚙️ Modulo II - Configurando o ambiente </summary>
-    * Instalando NodeJS <br />
+<summary> ⚙️ Flutter Begins - Configurando o ambiente </summary>
+    * Instalando o SDK <br />
     * Git <br />
     * Criando um repositório no Github <br />
-    * Baixando React Create App <br />
-    * Padronizando nosso código com o Prettier e o Lint <br />
+    * Emulador / Simulador <br />
+    * Iniciando um App <br />
 </details>
 
 
 -------
 <details>
-<summary> ⭐️ Modulo III - Welcome to the React </summary>
-    * O que é o React <br />
-    * Props <br />
-    * PropTypes <br />
-    * Eventos e Componentização <br />
-    * Refs <br />
-    * State e manipulação do DOM <br />
-    * Stateless <br />
-    * Life cycles <br />
+<summary> ⭐️ Welcome to Flutter </summary>
 </details>
 
 
 -------
 <details>
-<summary> ⭐️ Modulo IV - Criando Componentes </summary>
-    * O que é um Componente <br />
-    * Trabalhando com Props <br />
-    * Trabalhando com State <br />
-    * Trabalhando funções <br />
-    * Trabalhando com handles <br />
-    * Stateless x Statefull <br />
-    * Passando metodos entre os componentes <br />
+<summary> ⭐️ Material App </summary>
 </details>
 
 
 -------
 <details>
-<summary> ⭐️ Modulo V - Storage </summary>
-    * Introdução ao local Storage <br />
-    * Local Storage no React <br />
-    * Expiração com Sessão de Storage <br />
-    * Como criar cache com React? <br />
+<summary> ⭐️ Web App </summary>
 </details>
 
 
 -------
 <details>
-<summary> ⭐️ Modulo VI - Routes </summary>
-    * React Router DOM <br />
-    * Entenda Rotas <br />
-    * Monte suas rotas privadas <br />
-    * Monte suas rotas publicas <br />
-    * Validando rotas por objetos literais <br />
+<summary> ⭐️ APIs </summary>
 </details>
 
 
 -------
 <details>
-<summary> ⭐️ Modulo VII - Trabalhando com Redux-Saga </summary>
-    * O que é Redux? <br />
-    * Tipos de Redux <br />
-    * Fluxo do Redux-Saga <br />
-    * Middleware <br />
-    * Serviços <br />
-    * Actions, Saga, Reducers <br />
-    * Entenda Gererators <br />
+<summary> ⭐️ Reactividade </summary>
 </details>
 
 
