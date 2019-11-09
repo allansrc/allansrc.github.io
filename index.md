@@ -3,7 +3,6 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    align: center;
     height: 90%;
     border-radius: 50%;
     margin-botton: 15px;">
