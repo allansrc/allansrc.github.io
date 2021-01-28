@@ -1,13 +1,1 @@
-[
-  {
-    "fonts": [
-      {
-        "asset": "fonts/MaterialIcons-Regular.ttf"
-      },
-      {
-        "asset": "fonts/fa-regular-400.ttf"
-      }
-    ],
-    "family": "MaterialIcons"
-  }
-]
+[{"family":"MaterialIcons","fonts":[{"asset":"fonts/MaterialIcons-Regular.otf"}]},{"family":"Montserrat","fonts":[{"asset":"fonts/Montserrat-Regular.ttf"}]},{"family":"Electrolize","fonts":[{"asset":"fonts/Electrolize-Regular.ttf"}]},{"family":"packages/cupertino_icons/CupertinoIcons","fonts":[{"asset":"packages/cupertino_icons/assets/CupertinoIcons.ttf"}]}]
