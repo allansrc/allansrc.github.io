@@ -1,5 +1,218 @@
 {
   "talks": [
+   
+      {
+      "title": "Flutter em aplicações Nativas: Montando uma base sólida para escalar",
+      "description": "Nesta palestra exploraremos os fundamentos para integração de app Flutter em apps Nativos, enfatizando a criação de uma base de código modular e escalável. Em seguida, mostrarei insights sobre as melhores estratégias para os desenvolvedores contornarem os principais desafios, enfatizando a importância de um planejamento, arquitetura e testes.",
+      "location": "São Paulo - SP",
+      "host": "The DevConf Business SP",
+      "dateTime": "18/09/2024",
+      "inperson": true,
+      "tags": [
+         "Flutter",
+        "Game Dev",
+        "Open Source" 
+      ],
+      "links": [
+        {
+          "label": "event",
+          "href": "https://brasil.campus-party.org/cpnordeste/palestrantes/"
+        }
+      ]
+    }, 
+             {
+      "title": "Criando Jogos Multiplataforma com Flutter",
+      "description": "Nesse workshop vamos acompanhar os primeiros passos para criar jogos com Flutter. O flutter já é usado em mais de 1 milhão de apps, criando apps bonitos, multiplataforma compilados nativamente a partir de um único código base. Ultimamente os games se tornaram uma grande parte do ecossistema Flutter, graças ao Casual Game toolkit, uma coleção de ferramentas, modelos e recursos gratuitos e opensource para tornar o desenvolvimento de jogos mais produtivos  com Flutter.",
+      "location": "Recife - PE",
+      "host": "Campus Party Brasil",
+      "dateTime": "07/09/2024",
+      "inperson": true,
+      "tags": [
+         "Flutter",
+        "Game Dev",
+        "Open Source" 
+      ],
+      "links": [
+        {
+          "label": "event",
+          "href": "https://brasil.campus-party.org/cpnordeste/palestrantes/"
+        }
+      ]
+    }, 
+
+    
+             {
+      "title": "Mobile DevCamp KickOff",
+      "description": "Nesse meetup vamos falar sobre o KMP, Kotlin Multi plataforma, suas semelhanças, diferenças, pontos positivos e negativos com relação ao Flutter, e ainda servirá como base para o nosso treinamento mobile que estamos preparando",
+      "location": "Youtube",
+      "host": "Flutter João Pessoa",
+      "dateTime": "31/08/2024",
+      "inperson": false,
+      "tags": [
+         "flutter",
+        "Dart",
+        "Open Source" 
+      ],
+      "links": [
+        {
+          "label": "Youtube Live",
+          "href": ""
+        }
+      ]
+    }, 
+         {
+      "title": "Dart Fight? We're going to comment on some internal discussions at the Dart team",
+      "description": "Dart Fight? We're going to comment on some internal discussions at the Dart team",
+      "location": "Youtube",
+      "host": "GDG Espanha",
+      "dateTime": "19/08/2024",
+      "inperson": false,
+      "tags": [
+         "flutter",
+        "Dart",
+        "Open Source" 
+      ],
+      "links": [
+        {
+          "label": "Youtube Live",
+          "href": "https://www.youtube.com/watch?v=GWfKx05MHtw"
+        }
+      ]
+    }, 
+        {
+      "title": "Criando um App Open source com Flutter: APIs e Testes",
+      "description": "Nesse meetup seguiremos desenvolvendo o app open source. Onde através dele , exploraremos os conceitos base de Flutter e Dart, e evoluiremos conforme o desenvolvimento andar, e o melhor, a cada etapa elevaremos mais a régua!",
+      "location": "Youtube",
+      "host": "DuckDevLabs Channel",
+      "dateTime": "27/06/2024",
+      "inperson": false,
+      "tags": [
+         "flutter",
+        "Dart",
+        "Open Source" 
+      ],
+      "links": [
+        {
+          "label": "Youtube Live",
+          "href": "https://www.youtube.com/watch?v=DGxNPd-iTAI"
+        }
+      ]
+    }, 
+     {
+      "title": "Flutter with AI: Usando a API do Gemini para integrar IA no seu app Flutter",
+      "description": "Workshop integrando uma Aplicação Flutter com as APIs do Gemini. Explorando os conceitos bsicos de criação de Apps com Flutter e como integrar com o SDK AI do Dart",
+      "location": "João Pessoa - PB",
+      "host": "GDG João Pessoa",
+      "dateTime": "15/05/2024",
+      "inperson": true,
+      "tags": [
+         "flutter",
+        "AI",
+"Gemini",
+        "BuildWithAI",
+        "Open Source" 
+      ],
+      "links": [
+        {
+          "label": "event",
+          "href": "https://gdg.community.dev/events/details/google-gdg-joao-pessoa-presents-build-with-ai-com-gdg-joao-pessoa/"
+        }
+      ]
+    },
+        {
+      "title": "Criando um projeto Open source com Flutter: Wrapper e Layout",
+      "description": "Nesse meetup desenvolveremos iniciaremos o desenvolvimento de um projeto open source. Onde através dele , exploraremos os conceitos base de Flutter e Dart, e evoluiremos conforme o desenvolvimento andar, e o melhor, a cada etapa elevaremos mais a régua!",
+      "location": "Youtube",
+      "host": "DuckDevLabs Channel",
+      "dateTime": "04/05/2024",
+      "inperson": false,
+      "tags": [
+         "flutter",
+        "Dart",
+        "Open Source" 
+      ],
+      "links": [
+        {
+          "label": "Youtube Live",
+          "href": "https://www.youtube.com/watch?v=DGxNPd-iTAI"
+        }
+      ]
+    },
+     {
+      "title": "Integrando Flutter em aplicações Nativas: Montando uma base sólida para escalar",
+      "description": "Esta palestra exploraremos os fundamentos para integração de app Flutter em apps Nativos, enfatizando a criação de uma base de código modular e escalável. Em seguida, mostrarei insights sobre as melhores estratégias para os desenvolvedores contornarem os principais desafios, enfatizando a importância de um planejamento, arquitetura e testes.",
+      "location": "Belo Horizonte - MG",
+      "host": "Mobile Conference",
+      "dateTime": "10/04/2024",
+      "inperson": true,
+      "tags": [
+        "flutter",
+        "Dart",
+        "Open Source" 
+      ],
+      "links": [
+        {
+          "label": "event",
+          "href": "https://mobileconference.com.br/"
+        }
+      ]
+    },
+        {
+      "title": "Flutter em aplicativos Nativos: estratégias para não criar um monstro",
+      "description": "Nessa Talk online trazendo as estratégias e ferramentas para integrar Flutter em aplicativos Nativos (existentes).",
+      "location": "Remote",
+      "host": "GDG João Pessoa",
+      "dateTime": "02/03/2024",
+      "inperson": false,
+      "tags": [
+         "flutter",
+        "add-to-app",
+        "native",
+        "architecture"
+      ],
+      "links": [
+        {
+          "label": "event",
+          "href": "https://www.meetup.com/pt-BR/flutter-joao-pessoa/events/299474704/?eventorigin=group_events_list"
+        }
+      ]
+    },
+     {
+      "title": "Flutter in native applications: steps to avoid creating the Perfect Monster",
+      "description": "Panel Discussion focused on discur about AI tools, SDKs, models etc applied on crossplatform development with Flutter. Gemini APIs, Gemma use cases, offline models and hardware support, market and the future Flutter development with AI.",
+      "location": "Remote",
+      "host": "Flutter Global Summit 24",
+      "dateTime": "28/02/2024",
+      "inperson": false,
+      "tags": [
+        "flutter",
+        "AI"
+      ],
+      "links": [
+        {
+          "label": "event",
+          "href": "https://geekle.us/schedule/flutter24"
+        }
+      ]
+    },
+      {
+      "title": "AI and LLM technology in Flutter",
+      "description": "Panel Discussion focused on discur about AI tools, SDKs, models etc applied on crossplatform development with Flutter. Gemini APIs, Gemma use cases, offline models and hardware support, market and the future Flutter development with AI.",
+      "location": "Remote",
+      "host": "Flutter Global Summit 24",
+      "dateTime": "28/02/2024",
+      "inperson": false,
+      "tags": [
+        "flutter",
+        "AI"
+      ],
+      "links": [
+        {
+          "label": "event",
+          "href": "https://geekle.us/schedule/flutter24"
+        }
+      ]
+    },
     {
       "title": "Flutter em apps Nativos",
       "description": "Como NÃO criar o monstro perfeito",
